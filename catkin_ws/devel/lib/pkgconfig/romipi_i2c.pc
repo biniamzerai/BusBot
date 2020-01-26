@@ -1,0 +1,8 @@
+prefix=/home/jacob/catkin_ws/devel
+
+Name: romipi_i2c
+Description: Description of romipi_i2c
+Version: 0.0.1
+Cflags: -I/home/jacob/catkin_ws/src/romipi_i2c/include
+Libs: -L/home/jacob/catkin_ws/devel/lib 
+Requires: roscpp std_msgs sensor_msgs geometry_msgs nav_msgs tf turtlebot3_msgs

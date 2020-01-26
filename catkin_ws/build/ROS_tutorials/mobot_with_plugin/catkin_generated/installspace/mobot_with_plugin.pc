@@ -1,0 +1,8 @@
+prefix=/home/jacob/catkin_ws/install
+
+Name: mobot_with_plugin
+Description: Description of mobot_with_plugin
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/jacob/catkin_ws/install/lib 
+Requires: 

@@ -1,0 +1,7 @@
+<launch>
+	<node
+	 pkg="test_pkg"
+	 type="HelloWorld.py"
+	 name="HelloWorld_node"
+	 />
+</launch>

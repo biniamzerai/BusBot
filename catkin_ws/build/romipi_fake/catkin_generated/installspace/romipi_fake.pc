@@ -1,0 +1,8 @@
+prefix=/home/jacob/catkin_ws/install
+
+Name: romipi_fake
+Description: Description of romipi_fake
+Version: 0.0.1
+Cflags: -I/home/jacob/catkin_ws/install/include
+Libs: -L/home/jacob/catkin_ws/install/lib 
+Requires: roscpp std_msgs sensor_msgs geometry_msgs nav_msgs tf turtlebot3_msgs
